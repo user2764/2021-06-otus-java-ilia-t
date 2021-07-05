@@ -1,1 +1,2 @@
-# 2021-06-otus-java-ilia-t
+Курс: Java Developer. Professional
+Месяц начала: 2021-06
